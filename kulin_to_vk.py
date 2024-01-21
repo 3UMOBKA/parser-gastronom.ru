@@ -140,8 +140,8 @@ get_main_image()
 get_image()
 
 # Параметры аутентификации
-access_token = 'vk1.a.nyT7c5yRh43CzDetMqlW1g0tSTTmdpldp03oTkEM7DxgEjpbKgH2tsw366qEfVBna16mTjXjkLr26gXYM_fSqawGCS61NbTkAxqGJPMfXyXXe3hRrh07fK5uND6svIx_NTzGFMbdMQSzJqNigsiP4ZsXptuJdy3dRM9o56rgMk4OsruJ9tHbwqbThkDzb6Fl3eiwLADGKASLdDwygXbOeA'
-group_id = '199800303'
+access_token = ''
+group_id = ''
 
 
 
